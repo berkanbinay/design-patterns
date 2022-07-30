@@ -13,7 +13,7 @@ public class Main {
 
         System.out.println("ToyDuck...");
         toyDuck.squeak();
-        
+
         System.out.println("BirdAdapter...");
         birdAdapter.squeak();
     }
