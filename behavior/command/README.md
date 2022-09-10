@@ -34,6 +34,8 @@ Broker object uses command pattern to identify which object will execute which c
 
 ---
 
+<br>
+
 * When you need parameterize objects according to an action perform.
 * When you need to create and execute requests at different times.
-* When you need to support rollback, logging or transaction functionality.
+*   When you need to support rollback, logging or transaction functionality.
