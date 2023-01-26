@@ -4,7 +4,7 @@ Chain of responsibility pattern is used to achieve loose coupling in software de
 
 This pattern is recommended when multiple objects can handle a request and the handler doesn’t have to be a specific object. Also, the handler is determined at runtime. Please note that a request not handled at all by any handler is a valid use case.
 
-## Implmentation
+## Implementation
 ---
 <br>
 
