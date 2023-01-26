@@ -5,7 +5,7 @@ Chain of responsibility pattern is used to achieve loose coupling in software de
 This pattern is recommended when multiple objects can handle a request and the handler doesn’t have to be a specific object. Also, the handler is determined at runtime. Please note that a request not handled at all by any handler is a valid use case.
 
 ## Implementation
----
+
 <br>
 
 ![Chains of Responsbility UML Diagram](images/chains-of-responsibility-uml.png)
@@ -28,7 +28,6 @@ If ConcreteHandler1 can handle it, then the request is handled, if not it is sen
 
 ## Advantages & Disadvantages
 
----
 
 **Advantages:**
 * To reduce the coupling degree. Decoupling it will request the sender and receiver.
@@ -45,7 +44,6 @@ If ConcreteHandler1 can handle it, then the request is handled, if not it is sen
 
 ## Usage
 
----
 <br>
 
 * When you want to decouple a request’s sender and receiver
