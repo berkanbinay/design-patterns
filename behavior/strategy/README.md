@@ -6,8 +6,6 @@ In Strategy pattern, we create objects which represent various strategies and a 
 
 ## Implementation
 
----
-
 <br>
 
 We are going to create a Strategy interface defining an action and concrete strategy classes implementing the Strategy interface. Context is a class which uses a Strategy.
@@ -19,8 +17,6 @@ StrategyPatternDemo, our demo class, will use Context and strategy objects to de
 <br>
 
 ## Advantages & Disadvantages
-
----
 
 **Advantages:**
 
@@ -39,8 +35,6 @@ StrategyPatternDemo, our demo class, will use Context and strategy objects to de
 <br>
 
 ## Usage
-
----
 
 <br>
 
