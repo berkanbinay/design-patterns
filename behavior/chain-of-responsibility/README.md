@@ -8,7 +8,11 @@ This pattern is recommended when multiple objects can handle a request and the h
 
 <br>
 
+<center>
+
 ![Chains of Responsbility UML Diagram](images/chains-of-responsibility-uml.png)
+
+</center>
 
 * **Handler :** This can be an interface which will primarily receive the request and dispatches the request to a chain of handlers. It has reference to the only first handler in the chain and does not know anything about the rest of the handlers.
 * **Concrete handlers :** These are actual handlers of the request chained in some sequential order.
