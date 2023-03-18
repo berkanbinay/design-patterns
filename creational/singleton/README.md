@@ -51,7 +51,7 @@ To implement a singleton pattern, we have different approaches, but all of them 
 
 <br>
 
-```
-Singleton pattern is mostly used in multi-threaded and database applications. 
-It is used in logging, caching, thread pools configuration settings etc.
-```
+<pre>
+<li>Singleton pattern is mostly used in multi-threaded and database applications. 
+<li>It is used in logging, caching, thread pools configuration settings etc.
+</pre>
