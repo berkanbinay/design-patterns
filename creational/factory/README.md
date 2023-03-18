@@ -51,6 +51,8 @@ In the above class diagram, we have an interface called **Notification**, and th
 
 ## Usage
 
+<br>
+
 <pre>
 <li>When a class doesn't know what sub-classes will be required to create
 <li>When a class wants that its sub-classes specify the objects to be created.
