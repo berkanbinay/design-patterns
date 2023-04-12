@@ -59,7 +59,9 @@ The abstraction is an interface or abstract class and the implementer is also an
 
 <br>
 
-* When you don't want a permanent binding between the functional abstraction and its implementation.
-* When both the functional abstraction and its implementation need to extended using sub-classes.
-* It is mostly used in those places where changes are made in the implementation does not affect the clients.
-* The Bridge pattern is especially useful when dealing with cross-platform apps, supporting multiple types of database servers or working with several API providers of a certain kind (for example, cloud platforms, social networks, etc.)
+<pre>
+<li>When you don't want a permanent binding between the functional abstraction and its implementation.
+<li>When both the functional abstraction and its implementation need to extended using sub-classes.
+<li>It is mostly used in those places where changes are made in the implementation does not affect the clients.
+<li>The Bridge pattern is especially useful when dealing with cross-platform apps, supporting multiple types of database servers or working with several API providers of a certain kind (for example, cloud platforms, social networks, etc.)
+</pre>
