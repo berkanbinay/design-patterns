@@ -45,8 +45,9 @@ The client sees only the target interface and not the adapter. The adapter imple
 <br>
 
 <pre>
-<li>When an object needs to utilize an existing class with an incompatible interface.
-<li>When you want to create a reusable class that cooperates with classes which don't have compatible interfaces.
-<li>When you want to create a reusable class that cooperates with classes which don't have compatible interfaces.
-<li>It’s very often used in systems based on some legacy code. In such cases, Adapters make legacy code work with modern classes.
+    <li>When an object needs to utilize an existing class with an incompatible interface.
+    <li>When you want to create a reusable class that cooperates with classes which don't have compatible interfaces.
+    <li>When you want to create a reusable class that cooperates with classes which don't have compatible interfaces.
+    <li>It’s very often used in systems based on some legacy code. In such cases, Adapters make legacy code work with modern classes.
+    
 </pre>
