@@ -20,7 +20,7 @@
 
 <br>
 
-![Template Method UML Diagram](/images/template-pattern-uml.jpeg)
+![Template Method UML Diagram](images/template-pattern-uml.jpeg)
 
 <br>
 
